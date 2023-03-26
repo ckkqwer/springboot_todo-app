@@ -42,7 +42,7 @@ Two variant with react frontend and simply using jsp as view
 
 ## JSP Version
 	- Database
-		- using h2 database, interact via jpa
+		- using h2 database, interact with backend via jpa
 		- access GUI in route /h2-console
 		- jdbc url = jdbc:h2:mem:testdb
 		- username = sa, no password
